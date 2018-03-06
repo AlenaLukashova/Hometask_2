@@ -1,2 +1,2 @@
 # Hometask_2
-Alena Lukashova's home task Module 2
+Alena Lukashova's home task lesson 2
